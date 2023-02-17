@@ -1,0 +1,17 @@
+/* reset css*/
+.log{
+    color: beige;
+}
+body{
+    background-image: url(login\ image.jpg);
+  background-repeat: no-repeat;
+  width: fit-content;
+  
+  
+}
+input{
+    height: 35px ;
+    width:100% ;
+}
+    
+
